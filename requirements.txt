@@ -1,6 +1,6 @@
 streamlit
-google-generativeai
+groq
 python-dotenv
 PyPDF2
-speechrecognition
-gtts
+SpeechRecognition
+gTTS
